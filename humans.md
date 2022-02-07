@@ -24,6 +24,7 @@
 * Fernando Benitez | mbenitezp
 * Hadrien Salat
 * Griffith S Rees - github: [@griff-rees](https://github.com/griffrees)
+* Perfectslowbug
 
 ## Facilitators
 
